@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "federatedlearninginsa",
+  "private_key_id": "0caa7695b46bcf2e3fd1d6adf46d5dabee873ea3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhV2kH6ZzYiarD\nW8QGFXBzUPO99W4JOBtUvQ6/i6Wi41IVgL+zg6to4ip59CQ6b3w5ABl2NKzQPljx\nWRXRDki7llPdpaDuVxpSGubvQ1bTt230V/OnCnH1FDRGhLuM5lpYkVtzBeKfJPgs\nmubQGnPPNhy1cGBMgJPEBCWVEXdcaiOb7lrziyKdQTimUcwgFu4GTUqWTjuxANB1\nzA0qbjxXwcltpKkgcpsbV6xOL9cUv3v25hxPIbYEql+F1gmEuuuRN+wLFG18xyaM\n3Sk1KFKHacKiNdgf0ECIY4ZwCyLUM2rLC5m9Otjslz/Jcrg056O7nYnM5kfFD4hh\n1YGMJZ5HAgMBAAECggEADRTSc5Ojt8xSHfIrUIEZHJCj/bCMOTvJFmO9QfBc5rZU\nkwv81PJ9VmLevWKnYb8MEpEHaV3IdHRSHHyj8BVosn8ZEkJls8BZtk96fYRGu5an\n6unaKqXIFMad/EQDUTwkHYUernA2hi+SuqApawZGF87X3s6NwJMsQNJOzjcL21Dw\nHPaVSkTuxdVV7WAyMQfNu57gBJfiMpi1UzxV7uyYtLE9ksJSvOZvkvuoMjU4hLyL\n4/Aszgq5TsU9GzgtHe9HczCU8aj80Wy74ZQcVjPxqVWMEeC8bZ+pnd2mNRqj6MW5\nyK/dV2tFgVosA1Ph2L4a+xU2jdVaS6556nadOqL71QKBgQD/YnsqjusHXWVFkcqt\n95+h9/eO7HAaFntQnwAP6Ak+nPsZb5+qnA++jYXYfdlYybSaL96qunwNNRd5O/KX\nydWAfPh7hMvqA+rUzHJi+lFnPz9M6Qi975K5HfDDQNRve+ryt73pIDxWgkFzk34r\nNR1sQchUPofTZosa/AhppIFFRQKBgQDh4mYVlqO8uXntCyqXXQ1vJvSPDaE/wBMu\nWy01zEz+c0kTPkDqP4nBk5/jGPKwW9w+CAaNdQ2Y1IQ0jFnIUr19fBJ7TuAmc4qT\nmzT7kZbnKJfpVJezYXS5I+lr05w9BgN17ZQBNMGeQ7uukfIvFt+IPk2Lv/ePuEMd\n96XACuMQGwKBgQDs8uyf8fZy4N7Di59nhebgmndgblMcgVts0/l0yK87Ht+DHCQi\nYaXiAOD8mtd8H7mnjV6lPV03y9i5rTtKRgQHsOvDftTLjVLmmcJPvzyj9PTAYT6x\nK4UQqIzoPFBeF7VH+d8EW9pf0X70wxY+9IsWFHrQXywaonvST6FmkzE1mQKBgQDR\nS6kzD6UfVOw4S0Rng3zTJNEtS3/BRgN/zFOTqX0dt0xaXDBh3AWUK2jWT2NvLW5g\nu6b2oyK6HQ9ycSkviBqzjqbBQlBG0H/yTLlG75tXDDHVrN/zAbXZZgD+O9BkapIC\nTuP4Sh2suy3HjstL/nGYF8JaXsDPlff6aGBYFL5XSQKBgAcJ0vAYRFLsrqMHIdjB\nJ8Ovk9Nn+t+hWNdmrI57VHTo/yNRxmogzUfo1NRhI0fTMszcSZKp8NQddDPCu/pt\n1rJ6egnU8/UK31BcPk65ZDOy19+C64GuCH04fK3wo1WQofnElXVTZRfcHkTx0iU4\nYazW3/woG1R+kHwDqUzf29J+\n-----END PRIVATE KEY-----\n",
+  "client_email": "federatedlearninginsa@appspot.gserviceaccount.com",
+  "client_id": "117749955274689350706",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/federatedlearninginsa%40appspot.gserviceaccount.com"
+}
