@@ -4,7 +4,7 @@ The client and the server can be launched in the google cloud platform using doc
 # On GCP
 You should make your changes locally and push it to the git repo. 
 1. Do `git pull` in the FederatedLearning folder of the client/server.
-2. Build the updated docker container. In the FederatedLearning folder: Client: `sudo docker build -f client.dockerfile -t client .` Server: `sudo docker build -f server.dockerfile -t server .` This may take up to around 5 minutes.
+2. Build the updated docker container. In the Client folder: `sudo docker build -f client.dockerfile -t client .` Server: `sudo docker build -f server.dockerfile -t server .` This may take up to around 5 minutes.
 3. Run the docker containers. For the client and the server the first argument is the foldername in the google cloud platforms where the weights are stored. Only the clients have a second command line argument, which is the client id. E.g. to run the server with the directory name foo_6: `sudo docker run server foo_6`. To run the client with the directory name foo_6 and the client_id 0: `sudo docker run client foo_6 0`
 
 # Local
