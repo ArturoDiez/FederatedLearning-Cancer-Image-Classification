@@ -15,5 +15,8 @@ You can run the client and the server locally from your command line by just exe
 # Known bugs
 Sometimes the synchronization between the server and the client does not work perfectly. Therefore it is recommended to first start all clients and wait until they are running properly and are waiting for a new file by the server. Then the server should be started.
 
+# Contributors
+Aoife McGarrigle, Arturo Diez, Leonardo Vasquez, Marc Ziegler, Sebastian Kerres
+
 # Report 
 [report link](https://docs.google.com/document/d/1DlfVLCjIKz3YauWahpEX9nDpmKgEOLgqZlBAntjOKZc/edit#heading=h.62j7olksc92e)
